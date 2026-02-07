@@ -1,0 +1,9 @@
+# # Node.js paketlar papkasi
+# node_modules/
+
+# # Maxfiy konfiguratsiya
+# .env
+
+# # OS fayllari
+# .DS_Store
+# Thumbs.db
